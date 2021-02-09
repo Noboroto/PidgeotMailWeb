@@ -20,7 +20,6 @@ Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email 
 ![choosesheet](https://bl6pap003files.storage.live.com/y4mHctnDrvBe7nnzLl48J_FvgEC5fHwrH4LvlIu162f1Kpli0sJzUSFrYpk1-UfRlqYCEEURJiL6teIeRP7HX1JhtE18nncEEsbzeYfNwpaDDU6GkNS6NVWjQU0JuBuj5powjJAyws1DbpLu1exNR29dHhSrv5FsiF1ZrwMqXrT6TucGSTkr9ETFNQWMTpUEH53?width=660&height=387&cropmode=none)
 ![result](https://bl6pap003files.storage.live.com/y4mqoaDnTVWdgTEyhgwuNSeMHBefCy-u4w1MrezYdhvDK8DbhPlti3LYcFWBs-z6UNIV_9qL7tx4JODAmKvHXI80Y_jtL2rxZ9egH6xKAgLf026YS-RExVODUDO9ONbyOUshPcea9E6DCDVA7qyo1Q_4iLAXjcFGJrKV-s4xCpoaU5wkMFewKEkRkBHF6p0J-vv?width=660&height=387&cropmode=none)
 
-
 ## Thông tin liên hệ
 Facebook cá nhân: [đây](https://www.facebook.com/thanhtuvo135)
 
