@@ -13,4 +13,4 @@ Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email 
   - Hệ điều hành Windows 7 SP1 đến phiên bản Windows mới nhất
   - .NET Framework 4.6 (có kèm file cài đặt)
 ## Screenshots
-[Image](https://bl6pap003files.storage.live.com/y4m8eKrmDagRrIl94CJzDyJpVa3eBZuc-XU8niSrV6CN0iyvorBK2Sj7S_mNlu7B-xKxtKzejC2c4EyhX5s4AJw7gCZtufcyU5VfNbEXwMqE0jH9ixFM86H4KU1XyUaJT-S3Pp8fLshh-OjsN5o0TTWiBOOrbMlit75aR_Zbpts_AP_XS0ZNL3MK-lhOII4yh7t?width=1837&height=1080&cropmode=none)
+[image](https://bl6pap003files.storage.live.com/y4m8eKrmDagRrIl94CJzDyJpVa3eBZuc-XU8niSrV6CN0iyvorBK2Sj7S_mNlu7B-xKxtKzejC2c4EyhX5s4AJw7gCZtufcyU5VfNbEXwMqE0jH9ixFM86H4KU1XyUaJT-S3Pp8fLshh-OjsN5o0TTWiBOOrbMlit75aR_Zbpts_AP_XS0ZNL3MK-lhOII4yh7t?width=1837&height=1080&cropmode=none)
