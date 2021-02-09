@@ -19,7 +19,6 @@ Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email 
 ![sheet](https://bl6pap003files.storage.live.com/y4mlXyvJE1k4UVSCUtQNLQNRR2tt731JcK3G6YAcYBlFMSTLmkWIx6IGLbNaVuDPoN7bqqsn9mLjtS-7TspackuMcYMFu-xKWfhzE37ijYQ8bwTDQP3DuqQeq0F4tRZ5qOqAmF2PAbJrO0wa85y4qRmUm-lq5ctnVAF8nPnBonpTW-fPeYv1apKY5szrjT7uAPA?width=660&height=389&cropmode=none)
 ![choosesheet](https://bl6pap003files.storage.live.com/y4mHctnDrvBe7nnzLl48J_FvgEC5fHwrH4LvlIu162f1Kpli0sJzUSFrYpk1-UfRlqYCEEURJiL6teIeRP7HX1JhtE18nncEEsbzeYfNwpaDDU6GkNS6NVWjQU0JuBuj5powjJAyws1DbpLu1exNR29dHhSrv5FsiF1ZrwMqXrT6TucGSTkr9ETFNQWMTpUEH53?width=660&height=387&cropmode=none)
 ![result](https://bl6pap003files.storage.live.com/y4mqoaDnTVWdgTEyhgwuNSeMHBefCy-u4w1MrezYdhvDK8DbhPlti3LYcFWBs-z6UNIV_9qL7tx4JODAmKvHXI80Y_jtL2rxZ9egH6xKAgLf026YS-RExVODUDO9ONbyOUshPcea9E6DCDVA7qyo1Q_4iLAXjcFGJrKV-s4xCpoaU5wkMFewKEkRkBHF6p0J-vv?width=660&height=387&cropmode=none)
-![mailresult](https://bl6pap003files.storage.live.com/y4m7nXYfniwmQ84_djI6gS5cVfuGrhW4DLSjw5v5ibNw7XhJdUVFeZx5IRgCgOD-xr7PkEyGuknbffXOeFbqiJg80lonH_1qTlIWodzx9USB32Y8KoR-DBzs0W1yfIdBl6yH5aq724Kwb4DqXq_ZlegXNRog9i4aouji7qFmHLQHbVqFV6-WPjoN1driDyhpn_i?width=660&height=374&cropmode=none)
 
 
 ## Thông tin liên hệ
