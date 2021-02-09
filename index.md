@@ -1,37 +1,16 @@
-## PidgeotMail
+Xin chào mọi người, mình là Thanh Tú, hiện tại mình đang là 1 học sinh lớp 12
+Nhân dịp mình được nghỉ học sớm do dịch bệnh, mình đã viết 1 tool dành cho Gmail có thể hữu ích với nhiều người
+Nếu ai cần sử dụng app thì liên hệ mình bằng các cách bên dưới
 
-You can use the [editor on GitHub](https://github.com/Noboroto/PidgeotMailWeb/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noboroto/PidgeotMailWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Về PidgeotMail
+Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email với cùng một mẫu (template) nhưng thông tin mỗi người nhận được là khác nhau, được điều chỉnh bời google sheet
+- **Ưu điểm:** Có giới hạn gửi mail lớn, và đặc biệt là miễn phí cho mọi người (thời gian tới có thể mình sẽ thu phí những người dùng sau nhé)
+- **Limit:** Tuỳ vào từng loại tài khoản Google nha
+  - Tài khoản Google cá nhân: ~500 mail (bao gồm cả mail các bạn gửi bằng tay nữa). Tham khảo tại [đây](https://support.google.com/mail/answer/22839?hl=vi#zippy=%2Cb%E1%BA%A1n-%C4%91%C3%A3-%C4%91%E1%BA%A1t-%C4%91%E1%BA%BFn-gi%E1%BB%9Bi-h%E1%BA%A1n-g%E1%BB%ADi-th%C6%B0)
+  - Tài khoản Google Workplace: Tham khảo tại [đây](https://support.google.com/a/answer/166852?hl=en#zippy=%2Cconvert-to-a-paid-account%2Climits-increase-for-paid-accounts%2Climits-for-drive-and-groups-with-free-trial-accounts)
+- **Nhược điểm:** Bạn phải dùng máy tính WindowsOS mới dùng được phần mềm, thao tác có thể phức tạp với một số bạn
+- **Yêu cầu:** 
+  - Hệ điều hành Windows 7 SP1 đến phiên bản Windows mới nhất
+  - .NET Framework 4.6 (có kèm file cài đặt)
+## Screenshots
+[Image](https://bl6pap003files.storage.live.com/y4m8eKrmDagRrIl94CJzDyJpVa3eBZuc-XU8niSrV6CN0iyvorBK2Sj7S_mNlu7B-xKxtKzejC2c4EyhX5s4AJw7gCZtufcyU5VfNbEXwMqE0jH9ixFM86H4KU1XyUaJT-S3Pp8fLshh-OjsN5o0TTWiBOOrbMlit75aR_Zbpts_AP_XS0ZNL3MK-lhOII4yh7t?width=1837&height=1080&cropmode=none)
