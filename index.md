@@ -23,9 +23,9 @@ Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email 
   - Sai: ((**Name**)), khi thay bằng cột Name thì giá trị không được định dạng
   - Đúng: **((Name))**
 3. Đăng nhập vào phần mềm
-3 Chọn mail nháp
-3 Điền các ô cần thiết
-3 Chạy chương trình
+3. Chọn mail nháp
+3. Điền các ô cần thiết
+3. Chạy chương trình
 
 ## Thông tin liên hệ
 Facebook cá nhân: [đây](https://www.facebook.com/thanhtuvo135)  
