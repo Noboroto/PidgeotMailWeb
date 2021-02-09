@@ -20,8 +20,8 @@ Giúp người dùng gửi thư nháp (draft) đến nhiều địa chỉ email 
 1. Chuẩn bị sẵn 1 sheet tương tự như [sheet tham khảo](https://docs.google.com/spreadsheets/d/1Rg_rCJfClaGzBfgp3K3mWwEIYLCLRWf5ouGvh8O51Y4/edit#gid=0), **lưu ý bắt buộc phải có cột Email, và phần mềm có phân biệt chữ HOA và THƯỜNG**, các cột còn lại tương ứng với các thông tin cần điền
 1. Tạo mail nháp. **Lưu ý** nếu bạn muốn định dạng (in đậm, in nghiêng,...) vùng được điền vào thì bạn phải định dạng cả chuỗi đóng và chuỗi mở.  
   VD:
-  - Sai: {{**Name**}}, khi thay bằng cột Name thì giá trị không được định dạng
-  - Đúng: **{{Name}}**
+  - Sai: ((**Name**)), khi thay bằng cột Name thì giá trị không được định dạng
+  - Đúng: **((Name))**
 3. Đăng nhập vào phần mềm
 3 Chọn mail nháp
 3 Điền các ô cần thiết
