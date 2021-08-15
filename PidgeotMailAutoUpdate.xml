@@ -2,6 +2,6 @@
 <item>
     <version>2.2.0.0</version>
     <url>https://github.com/Noboroto/PidgeotMailWeb/releases/download/2.2.0/PidgeotMail.v.2.2.0.zip</url>
-    <changelog>https://github.com/Noboroto/PidgeotMailWeb/releases/</changelog>
+    <changelog>https://github.com/Noboroto/PidgeotMailWeb/releases</changelog>
     <mandatory>true</mandatory>
 </item>
