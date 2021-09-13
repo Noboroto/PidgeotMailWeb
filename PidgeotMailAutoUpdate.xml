@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.3.0.0</version>
-    <url>https://github.com/Noboroto/PidgeotMail/releases/download/2.3.1/PidgeotMail.v.2.3.1.zip</url>
-    <changelog>https://github.com/Noboroto/PidgeotMail/releases/tag/2.3.1</changelog>
+    <url>https://github.com/Noboroto/PidgeotMailWeb/releases/download/2.3.0/PidgeotMail.v.2.3.0.zip</url>
+    <changelog>https://github.com/Noboroto/PidgeotMailWeb/releases</changelog>
     <mandatory>true</mandatory>
 </item>
